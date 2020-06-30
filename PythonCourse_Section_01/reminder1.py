@@ -1,0 +1,1 @@
+print("We have {smallBoxes} small boxes, {largeBoxes} large boxes, {mediumBoxes} medium boxes.".format(smallBoxes = "10", largeBoxes = "12", mediumBoxes = "12"))
